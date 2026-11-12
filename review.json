@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-06T04:49:18.895787+00:00",
+  "source_url": "http://127.0.0.1:3201/index.html",
+  "source_root": "/Users/USER/Library/Application Support/Open Design/namespaces/release-stable/data/projects/3c99ff72-0aaa-4654-b7b0-b06c20233d75",
+  "source_hashes": {
+    "index.html": "8fe71d7ed1e7e8c71313ebd5d51491799369100d43164a55b77e266946bb632f",
+    "PRODUCT.md": "83d8c8df7b29c535a4dfd1ea8de762a239cb2be227932c6f8e9fd76efc6538f1",
+    "brand-spec.md": "d3b0076fc72028c722d01b8f2635fc5968e99d991dda0799c5e0c77eb8b37eb6",
+    "assets/js/site.js": "e5dba7d382cda624c93aa06d02e1390b982d1ba3d4bec6f72c5690f08cb9bbf6",
+    "assets/ovops-enterprise.js": "5c74319eb068627b870828d8649933f5e72a2500d55a76b28c682e5100fca172",
+    "assets/css/hero-final-refinement.css": "68faa930f78f4c3f3ba61f9bbd685bad14dc899b9bf561e793c432dd1bbf40c8"
+  },
+  "browser_review": {
+    "desktop": "Default viewport: hero and project/workflow sections visually inspected",
+    "mobile": "390 x 844: completed entrance animation, hero and expanded menu visually inspected",
+    "interactions": [
+      "Project tab selected by mouse",
+      "ArrowRight moved selection from marketing to content publishing",
+      "Workflow tab changed to procurement",
+      "Mobile menu expanded and collapsed"
+    ],
+    "video": {
+      "playing": true,
+      "readyState": 4
+    },
+    "viewport_override": "Reset at end"
+  },
+  "implementation_found": {
+    "site": "Static HTML/CSS/native JavaScript multipage frontend",
+    "animation": "CSS transitions + IntersectionObserver, requestAnimationFrame orbit, local video, Canvas 2D code",
+    "backend": "No API/database implementation found in supplied frontend project; not a claim about other repositories"
+  },
+  "scope": "Reference review only; no changes to original site source or personal portfolio source",
+  "files_created": [
+    {
+      "path": "/Users/USER/Documents/Codex/2026-10-06/ovops-reference-review/preview.py",
+      "purpose": "Reference preview and review evidence; retained for follow-up"
+    },
+    {
+      "path": "/Users/USER/Documents/Codex/2026-10-06/ovops-reference-review/desktop-project.jpg",
+      "purpose": "Reference preview and review evidence; retained for follow-up"
+    },
+    {
+      "path": "/Users/USER/Documents/Codex/2026-10-06/ovops-reference-review/mobile-hero.jpg",
+      "purpose": "Reference preview and review evidence; retained for follow-up"
+    },
+    {
+      "path": "/Users/USER/Documents/Codex/2026-10-06/ovops-reference-review/参考分析.md",
+      "purpose": "Reference preview and review evidence; retained for follow-up"
+    },
+    {
+      "path": "/Users/USER/Documents/Codex/2026-10-06/ovops-reference-review/review.json",
+      "purpose": "Reference preview and review evidence; retained for follow-up"
+    },
+    {
+      "path": "/Users/USER/Documents/Codex/2026-10-06/ovops-reference-review/preview.log",
+      "purpose": "Reference preview and review evidence; retained for follow-up"
+    },
+    {
+      "path": "/Users/USER/Documents/Codex/2026-10-06/ovops-reference-review/preview.json",
+      "purpose": "Reference preview and review evidence; retained for follow-up"
+    }
+  ],
+  "preview": "HTTP 200 and actual browser rendering confirmed at original 3201 URL"
+}

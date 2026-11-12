@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-06T04:39:16.353459+00:00",
+  "pid": 95445,
+  "url": "http://127.0.0.1:3201/index.html",
+  "source_root": "/Users/USER/Library/Application Support/Open Design/namespaces/release-stable/data/projects/3c99ff72-0aaa-4654-b7b0-b06c20233d75",
+  "server": "/Users/USER/Documents/Codex/2026-10-06/ovops-reference-review/preview.py",
+  "log": "/Users/USER/Documents/Codex/2026-10-06/ovops-reference-review/preview.log",
+  "scope": "Read-only reference preview at user-supplied URL; no source files edited; private/hidden/directories not served",
+  "purpose": "Visual and interaction reference review",
+  "stop_command": [
+    "kill",
+    "95445"
+  ]
+}
